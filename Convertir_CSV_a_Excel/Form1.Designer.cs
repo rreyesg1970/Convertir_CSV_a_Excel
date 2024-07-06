@@ -92,7 +92,7 @@
             // BtnMostarArchivo
             // 
             BtnMostarArchivo.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            BtnMostarArchivo.Location = new Point(1138, 64);
+            BtnMostarArchivo.Location = new Point(372, 64);
             BtnMostarArchivo.Name = "BtnMostarArchivo";
             BtnMostarArchivo.Size = new Size(146, 23);
             BtnMostarArchivo.TabIndex = 6;
@@ -107,7 +107,7 @@
             // BtnLimpiarDatos
             // 
             BtnLimpiarDatos.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            BtnLimpiarDatos.Location = new Point(958, 64);
+            BtnLimpiarDatos.Location = new Point(1138, 64);
             BtnLimpiarDatos.Name = "BtnLimpiarDatos";
             BtnLimpiarDatos.Size = new Size(146, 23);
             BtnLimpiarDatos.TabIndex = 7;
@@ -132,7 +132,7 @@
             label3.Name = "label3";
             label3.Size = new Size(63, 15);
             label3.TabIndex = 9;
-            label3.Text = "Versión 1.5";
+            label3.Text = "Versión 1.6";
             // 
             // Form1
             // 
